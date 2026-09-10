@@ -1,0 +1,13 @@
+{
+  "message": "Updated API response",
+  "items": [
+    {
+      "id": 1,
+      "name": "Updated Item"
+    },
+    {
+      "id": 2,
+      "name": "New Flask Item"
+    }
+  ]
+}
